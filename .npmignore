@@ -1,0 +1,13 @@
+src/
+tsconfig.json
+jest.config.js
+.eslintrc.json
+.prettierrc
+.gitignore
+*.test.ts
+*.spec.ts
+__tests__/
+coverage/
+.nyc_output/
+.env
+.env.local
