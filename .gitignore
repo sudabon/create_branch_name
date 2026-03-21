@@ -1,9 +1,22 @@
+# TypeScript
 node_modules/
 dist/
-*.log
-.DS_Store
-.env
-.env.local
-coverage/
-.nyc_output/
-*.tsbuildinfo
+
+# MacOS
+**/.DS_Store
+**/Thumbs.db
+
+# IDE
+.vscode/
+.smart-edit/
+.specstory/
+
+# CodingAgent
+.cursor/
+.claude/
+.codex/
+
+# Cursor
+.cursorrules
+.cursorignore
+.cursorindexingignore
